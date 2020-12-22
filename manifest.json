@@ -1,0 +1,11 @@
+{
+    "name": "AI Luminance",
+    "short_name": "AI Luminance",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Random color generator that gets luminance from a server with brain.js neural networks.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
